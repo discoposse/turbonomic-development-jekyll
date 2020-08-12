@@ -9,7 +9,7 @@
 title: "Help Center"
 email: eric.wright@turbonomic.com
 description: "Turbonomic Labs - Jekyll Docs Example"
-baseurl: "/"
+baseurl: ""
 url: "https://turbonomiclabs.com"
 twitter_username: "turbonomic"
 github_username:  "discoposse"
