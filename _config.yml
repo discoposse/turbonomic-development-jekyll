@@ -7,12 +7,12 @@
 
 # Site settings
 title: "Help Center"
-email: gusquinalha@gmail.com
-description: "Simple and flexible Jekyll theme for help center."
-baseurl: "/jekyll-help-center-theme"
-url: "http://quinalha.me"
-twitter_username: "gustavoquinalha"
-github_username:  "gustavoquinalha"
+email: eric.wright@turbonomic.com
+description: "Turbonomic Labs - Jekyll Docs Example"
+baseurl: "/"
+url: "https://turbonomiclabs.com"
+twitter_username: "turbonomic"
+github_username:  "discoposse"
 color_theme:  "#0081ff"
 color_text:  "#fff"
 language:  "en"
